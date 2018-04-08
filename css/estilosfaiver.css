@@ -1,0 +1,11 @@
+*{
+	padding: 0;
+	margin: 0;
+
+}
+body{
+	font-family: Helvetica,Verdana;
+	background: #212121;
+	color: #FFFFFF;
+	font-size: 1em; 
+}
