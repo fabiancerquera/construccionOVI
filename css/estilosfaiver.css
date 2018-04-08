@@ -9,3 +9,17 @@ body{
 	color: #FFFFFF;
 	font-size: 1em; 
 }
+h1	{
+	color: #f60;
+	margin: 0.25em auto;
+	text-align: center;
+	text-shadow: 5px 5px 10px (255,255,255,0.5);
+}
+header,nav, section, footer{
+	background: #808080;
+	border-radius: 0.5em;
+	margin: 0.5em auto;
+	max-width: 960px;
+	padding: 0.25em;
+	text-align: center;
+}
